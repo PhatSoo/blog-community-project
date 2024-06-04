@@ -1,5 +1,5 @@
-# community-chat-project
+# blog-community-project
 
-## community-chat-api: https://github.com/PhatSoo/community-chat-api
+## blog-community-api: https://github.com/PhatSoo/blog-community-api
 
-## community-chat-app: https://github.com/PhatSoo/community-chat-app
+## blog-community-app: https://github.com/PhatSoo/blog-community-app
